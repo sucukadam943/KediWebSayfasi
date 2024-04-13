@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="kemal.css">
+</head>
+<body>
+    <h1>Çok önemli kedi</h1>
+    <h3>Renkli kedi</h3>
+    <h2>Şişman kedi</h2>
+    <h6>Minnoş kedi</h6>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, nostrum. (kedi duası)</p>
+    <strong>Kaslı kedi</strong>
+    <br>
+    <br>
+    <em>Kibar kedi yazısı</em>
+    <ol>
+        <li>Kedi ✓</li>
+        <li>Köpek ❌</li>
+        <li>Tavşan -</li>
+    </ol>
+
+    <h2>Yaşamak için 6 neden</h2>
+
+    <ul>
+        <li>Kedi otu</li>
+        <li>Islak mama</li>
+        <li>Koltuk tırmalamak</li>
+        <li>Uyumak</li>
+        <li>Göbeeğini sevenleri tırmalamak</li>
+        <li>Köpekler kaldırılsın</li>
+
+    </ul>
+    <a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe>
+    <img src="https://static.euronews.com/articles/stories/06/88/46/44/1200x675_cmsv2_cc722e78-e285-594f-a10d-91edd442b037-6884644.jpg" alt="yok">
+</body>
+</html>
